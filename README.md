@@ -1,4 +1,5 @@
-## Hi there 👋
+![piccy](https://github.com/user-attachments/assets/135a5238-ac97-4036-af7c-9a3e401e0cac)
+
 
 <!--
 **jacksonhardy/jacksonhardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
